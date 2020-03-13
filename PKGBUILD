@@ -1,4 +1,4 @@
-# Maintainer: H. Sinan Alioglu <ekpyrosis@gmail.com>
+# Maintainer: Sinan Alioglu <ekpyrosis@gmail.com>
 pkgbase=python-tara
 pkgname=('python-tara' 'python2-tara')
 _pyname=tara

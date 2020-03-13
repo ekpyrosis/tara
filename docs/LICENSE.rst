@@ -2,15 +2,15 @@
 Appendix B. License for Tara
 =======================================================
 :Info: This is the license for Tara.
-:Author: H. Sinan Alioglu <sinan@alioglu.org>
-:Copyright: © 2020, H. Sinan Alioglu.
+:Author: Sinan Alioglu <sinan@alioglu.org>
+:Copyright: © 2020, Sinan Alioglu.
 :License: BSD (see /LICENSE or :doc:`Appendix B <LICENSE>`.)
 :Date: 2020-04-19
 :Version: 0.1.0
 
 .. index:: LICENSE
 
-Copyright © 2020, H. Sinan Alioglu.
+Copyright © 2020, Sinan Alioglu.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

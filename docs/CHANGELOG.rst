@@ -2,8 +2,8 @@
 Appendix C. Changelog
 =====================
 :Info: This is the changelog for Tara.
-:Author: H. Sinan Alioglu <sinan@alioglu.org>
-:Copyright: © 2020, H. Sinan Alioglu.
+:Author: Sinan Alioglu <sinan@alioglu.org>
+:Copyright: © 2020, Sinan Alioglu.
 :License: BSD (see /LICENSE or :doc:`Appendix B <LICENSE>`.)
 :Date: 2020-04-19
 :Version: 0.1.0
@@ -18,6 +18,99 @@ More information can be found on GitHub in the `releases section
 
 Version History
 ===============
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
+
+0.1.0
+
 
 0.1.0
     Initial release.

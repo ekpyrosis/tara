@@ -41,7 +41,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Tara'
-copyright = u'2020, H. Sinan Alioglu'
+copyright = u'2020, Sinan Alioglu'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -179,7 +179,7 @@ htmlhelp_basename = 'Taradoc'
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
   ('index', 'tara.tex', u'Tara Documentation',
-   u'H. Sinan Alioglu', 'manual'),
+   u'Sinan Alioglu', 'manual'),
 ]
 
 latex_elements = {'papersize': 'a4paper', 'fontpkg': '\\usepackage{tgheros}',
@@ -215,7 +215,7 @@ latex_elements = {'papersize': 'a4paper', 'fontpkg': '\\usepackage{tgheros}',
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'tara', u'Tara Documentation',
-     [u'H. Sinan Alioglu'], 1)
+     [u'Sinan Alioglu'], 1)
 ]
 
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 # Tara test suite
-# Copyright © 2020, H. Sinan Alioglu.
+# Copyright © 2020, Sinan Alioglu.
 # See /LICENSE for licensing information.
 
 

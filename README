@@ -2,8 +2,8 @@
 Tara.  Tara Python Wrapper
 ==============================================================================
 :Info: This is the README file for Tara.
-:Author: H. Sinan Alioglu <sinan@alioglu.org>
-:Copyright: © 2020, H. Sinan Alioglu.
+:Author: Sinan Alioglu <sinan@alioglu.org>
+:Copyright: © 2020, Sinan Alioglu.
 :Date: 2020-04-19
 :Version: 0.1.0
 
@@ -25,7 +25,7 @@ NOTES
 
 COPYRIGHT
 ---------
-Copyright © 2020, H. Sinan Alioglu.
+Copyright © 2020, Sinan Alioglu.
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without

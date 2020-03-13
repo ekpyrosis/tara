@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 # Tara test suite
-# Copyright © 2020, H. Sinan Alioglu.
+# Copyright © 2020, Sinan Alioglu.
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without

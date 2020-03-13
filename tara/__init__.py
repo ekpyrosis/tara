@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 # Tara v0.1.0
 # Tara Python Wrapper
-# Copyright © 2020, H. Sinan Alioglu.
+# Copyright © 2020, Sinan Alioglu.
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
@@ -35,13 +35,13 @@
 """
 Tara Python Wrapper
 
-:Copyright: © 2020, H. Sinan Alioglu.
+:Copyright: © 2020, Sinan Alioglu.
 :License: BSD (see /LICENSE).
 """
 
 __title__ = 'Tara'
 __version__ = '0.1.0'
-__author__ = 'H. Sinan Alioglu'
+__author__ = 'Sinan Alioglu'
 __license__ = '3-clause BSD'
 __docformat__ = 'restructuredtext en'
 
